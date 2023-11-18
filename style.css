@@ -24,6 +24,11 @@ nav{
     padding: 10px;
 }
 
+nav > a:hover{
+    text-decoration: underline;
+}
+
+
 section{
     padding: .5rem 0 1rem
 }
@@ -35,9 +40,10 @@ section{
 }
 
 .container {
+    padding: 60;
     margin: auto;
-    max-width: 90rem;
-    width: 100%;
+    max-width: 1000px;
+    width: 90%;
 }
 
 .container-nav{
