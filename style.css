@@ -391,6 +391,7 @@ iframe {
 .view-more {
     background-color: #007bff;
     color: white;
+    text-decoration: none
 }
 
 .view-more:hover {
